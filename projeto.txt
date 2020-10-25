@@ -1,0 +1,3 @@
+C:\Users\tamir>streamlit run Desktop\Projeto.py
+
+C:\Users\tamir>streamlit run Desktop\Projeto.py
